@@ -12,7 +12,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [pytorch]
+- [pytorch](https://pytorch.org/)
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
