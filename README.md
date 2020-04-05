@@ -12,6 +12,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [pytorch]
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
@@ -20,14 +21,14 @@ We recommend to install [Anaconda](https://www.continuum.io/downloads), a pre-pa
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Flowers_Classifier_DL/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook Image Classifier Project.ipynb
+ipython notebook Image_Classifier Project.ipynb
 ```  
 or
 ```bash
-jupyter notebook Image Classifier Project.ipynb
+jupyter notebook Image_Classifier Project.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
